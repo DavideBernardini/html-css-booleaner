@@ -1,6 +1,7 @@
 * {
     margin: 0;
 }
+
 .container {
     width: 80%;
     margin: 0 auto;
@@ -58,6 +59,26 @@ header {
     margin: 2% 0 2% 0;
 }
 
+.testo_evidenziato {
+    background-color: yellow;
+}
+
 .lista_lorem {
+    margin: 2% 0 2% 0;
+}
+
+/* Stile tabella */
+
+.header_tabella {
+    background-color: #20A9E5;
+}
+
+.riga_tabella_evidenziata {
+    background-color: #B1E5F2;
+}
+
+/* Stile secondo paragrafo */
+
+.secondo_paragrafo {
     margin: 2% 0 2% 0;
 }
