@@ -6,12 +6,16 @@
     margin: 0 auto;
 }
 
+/* Stile header */
+
 header {
     background-color: #4EA0FF;
     background-image: url("../img/pattern.png");
     background-size: contain;
     height: 100px;
 }
+
+/* Stile itestazione */
 
 .intestazione {
     margin: 2% 0 2% 0;
@@ -36,4 +40,24 @@ header {
 .data {
     color: grey;
     font-size: 80%;
+}
+
+/* Stile sezione immagini dell'articolo */
+
+.didascalia_prima_foto {
+    font-size: 70%;
+}
+
+.didascalia_seconda_foto {
+    font-size: 70%;
+}
+
+/* Stile corpo articolo */
+
+.primo_paragrafo {
+    margin: 2% 0 2% 0;
+}
+
+.lista_lorem {
+    margin: 2% 0 2% 0;
 }
