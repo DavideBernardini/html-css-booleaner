@@ -10,20 +10,21 @@
 /* Stile header */
 
 header {
+    text-align: center;
     background-color: #4EA0FF;
     background-image: url("../img/pattern.png");
     background-size: contain;
     height: 100px;
 }
 
+.logo {
+    width: 15%;
+}
+
 /* Stile itestazione */
 
 .intestazione {
     margin: 2% 0 2% 0;
-}
-
-.logo {
-    width: 15%;
 }
 
 .titolo_articolo {
