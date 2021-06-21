@@ -82,3 +82,25 @@ header {
 .secondo_paragrafo {
     margin: 2% 0 2% 0;
 }
+
+/* Stile footer */
+
+.indicazione_correlati {
+    font-size: 120%;
+    font-weight: bold;
+    color: gray;
+}
+
+.correlato_1 {
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    margin-top: 1%;
+}
+
+.correlato_2 {
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    margin-top: 1%;
+}
