@@ -70,6 +70,14 @@ header {
 
 /* Stile tabella */
 
+table {
+border-spacing: 0;
+} 
+
+.column_width {
+    width: 50%;
+}
+
 .header_tabella {
     background-color: #20A9E5;
 }
@@ -100,8 +108,12 @@ header {
 }
 
 .correlato_2 {
-    background-image: url(../img/monitor.jpg);
+    background-image: url(../img/graph.jpg);
     width: 250px;
     height: 200px;
     margin-top: 1%;
+}
+
+.titolo_correlato {
+    color: white;
 }
